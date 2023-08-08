@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ITI Assignment</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="post">Post</string>
+    <string name="more">Read ..</string>
+    <string name="username">username</string>
+</resources>
